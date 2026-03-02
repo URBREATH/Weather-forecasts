@@ -1,5 +1,5 @@
-# Weather-forecast
-Weather daily forecast for cities
+# Weather-forecasts
+Weather daily forecasts for cities
 
 **Goal:** To provide high-resolution, short-term predictions for the next 10 days, allowing cities to manage daily operations and execute immediate responses to upcoming weather events.
 
