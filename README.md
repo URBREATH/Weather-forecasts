@@ -6,7 +6,7 @@ Weather daily forecasts for cities
 ---
 
 ### 🛠 Technical Overview
-* **Provided by:** Ficlima & Municipia. (Contact: toni@ficlima.org)
+* **Provided by:** Ficlima, VCS & Municipia. (Contact: toni@ficlima.org)
 * **Methodology:** Raw models optimized through **Machine Learning (AI)** methods using local observed data from city weather stations.
 * **Delivery:** Optimized daily forecasts supplied to URBREATH tools via **WMS**.
 * **Dependencies** Plotted data is updated daily via WMS inputs. For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf".
