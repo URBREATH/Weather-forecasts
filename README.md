@@ -4,12 +4,33 @@ Weather daily forecasts for cities
 **Goal:** To provide high-resolution, short-term predictions for the next 10 days, allowing cities to manage daily operations and execute immediate responses to upcoming weather events.
 
 ---
+<table>
+  <tr>
+    <td width="30%"><b>License</b></td>
+    <td>CC BY-NC-ND 4.0</td>
+  </tr>
+  <tr>
+    <td><b>Dependencies</b></td>
+    <td>
+      GeoServer (to expose the data via WMS*)<br>
+      Apache Superset (to visualize data via interactive dashboards and graphs)<br>
+      VC Viewer (to visualize data via interactive maps)
+    </td>
+  </tr>
+  <tr>
+    <td><b>Contact points</b></td>
+    <td><a href="mailto:toni@ficlima.org">toni@ficlima.org</a></td>
+  </tr>
+</table>
+
+<p><sub>*For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf"</sub></p>
+
+---
 
 ### 🛠 Technical Overview
-* **Provided by:** Ficlima, VCS & Municipia. (Contact: toni@ficlima.org)
+* **Provided by:** Ficlima, VCS & Municipia.
 * **Methodology:** Raw models optimized through **Machine Learning (AI)** methods using local observed data from city weather stations.
 * **Delivery:** Optimized daily forecasts supplied to URBREATH tools via **WMS**.
-* **Dependencies** Plotted data is updated daily via WMS inputs. For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf".
 * **Update Frequency:** 🕒 **Daily.** The information is refreshed every 24 hours.
 
 ---
