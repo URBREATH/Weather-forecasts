@@ -37,8 +37,8 @@ The interpretation is optimized through the use of **thresholds**.
 
 ### 🔗 Explore the Tool
 You can access the weather visualization system here:
-👉 [Ficlima Weather Tool](https://urbreath.virtualcitymap.de/ficlima/
-and here: https://urbreath.virtualcitymap.de/tallinn/forecast/)
+👉 [Ficlima Weather Tool I ](https://urbreath.virtualcitymap.de/ficlima/)
+👉 [Ficlima Weather Tool II ](https://urbreath.virtualcitymap.de/tallinn/forecast/)
 
 ---
 
