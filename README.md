@@ -6,7 +6,7 @@ Weather daily forecasts for cities
 ---
 
 ### 🛠 Technical Overview
-* **Provided by:** Ficlima & Municipia.
+* **Provided by:** Ficlima & Municipia. (Contact: toni@ficlima.org)
 * **Methodology:** Raw models optimized through **Machine Learning (AI)** methods using local observed data from city weather stations.
 * **Delivery:** Optimized daily forecasts supplied to URBREATH tools via **WMS**.
 * **Update Frequency:** 🕒 **Daily.** The information is refreshed every 24 hours.
@@ -37,7 +37,8 @@ The interpretation is optimized through the use of **thresholds**.
 
 ### 🔗 Explore the Tool
 You can access the weather visualization system here:
-👉 [Ficlima Weather Tool](https://urbreath.virtualcitymap.de/ficlima/)
+👉 [Ficlima Weather Tool](https://urbreath.virtualcitymap.de/ficlima/
+and here: https://urbreath.virtualcitymap.de/tallinn/forecast/)
 
 ---
 
